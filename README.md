@@ -6,4 +6,4 @@
 
 3: We can attache the IAM role with the instance at the time of creation or IAM access and Screct key in the script
 
-3: Now restart the ec2config from Services
+4: Now restart the ec2config from Services
